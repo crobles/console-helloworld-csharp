@@ -1,0 +1,11 @@
+C:\Users\Cristofer\Documents\DESARROLLO\holamundo-csharp\bin\Debug\netcoreapp3.1\holamundo-csharp.exe
+C:\Users\Cristofer\Documents\DESARROLLO\holamundo-csharp\bin\Debug\netcoreapp3.1\holamundo-csharp.deps.json
+C:\Users\Cristofer\Documents\DESARROLLO\holamundo-csharp\bin\Debug\netcoreapp3.1\holamundo-csharp.runtimeconfig.json
+C:\Users\Cristofer\Documents\DESARROLLO\holamundo-csharp\bin\Debug\netcoreapp3.1\holamundo-csharp.runtimeconfig.dev.json
+C:\Users\Cristofer\Documents\DESARROLLO\holamundo-csharp\bin\Debug\netcoreapp3.1\holamundo-csharp.dll
+C:\Users\Cristofer\Documents\DESARROLLO\holamundo-csharp\bin\Debug\netcoreapp3.1\holamundo-csharp.pdb
+C:\Users\Cristofer\Documents\DESARROLLO\holamundo-csharp\obj\Debug\netcoreapp3.1\holamundo-csharp.csprojAssemblyReference.cache
+C:\Users\Cristofer\Documents\DESARROLLO\holamundo-csharp\obj\Debug\netcoreapp3.1\holamundo-csharp.AssemblyInfoInputs.cache
+C:\Users\Cristofer\Documents\DESARROLLO\holamundo-csharp\obj\Debug\netcoreapp3.1\holamundo-csharp.AssemblyInfo.cs
+C:\Users\Cristofer\Documents\DESARROLLO\holamundo-csharp\obj\Debug\netcoreapp3.1\holamundo-csharp.dll
+C:\Users\Cristofer\Documents\DESARROLLO\holamundo-csharp\obj\Debug\netcoreapp3.1\holamundo-csharp.pdb
